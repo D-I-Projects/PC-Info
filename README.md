@@ -17,5 +17,4 @@ Please don't directly judge us if we've got something wrong with Licenses if you
 
 - You need:
     - Python
-    - Java (for Mojang's software)
     - Windows 11 or Linux Mint (optional,tested)
