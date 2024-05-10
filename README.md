@@ -1,5 +1,7 @@
 # PC Info
 
+[![DevSkim](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml)
+
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white)
 
 Our program displays all Informations from your pc and gives you the ability to just export it and send it to the support for an example!
