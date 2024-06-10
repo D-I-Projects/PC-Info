@@ -8,7 +8,7 @@ Our program displays all Informations from your pc and gives you the ability to 
 
 ## Note
 
-More infos can be found in the README file, in doubt just place your questions by direct messages @iv32. or @wfxey. In the case that you can not sent us a message, contact us via our Discord Server https://discord.gg/t4mYGbErAn.
+More infos can be found in the README file, in doubt just place your questions by direct messages @iv32. or @wfxey. In the case that you can not sent us a message, contact us via our Discord Server (https://discord.gg/t4mYGbErAn).
 Please don't directly judge us if we've got something wrong with Licenses if you contact us we will directly solve the issue!
 
 ## D&I Logo
