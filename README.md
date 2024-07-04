@@ -2,7 +2,7 @@
 
 # PC Info
 
-[![DevSkim](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) ![License](https://img.shields.io/github/license/wfxey/PC-Info.svg)
+[![DevSkim](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white) [![License](https://img.shields.io/badge/License-MIT-blue)](#license)
 
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
