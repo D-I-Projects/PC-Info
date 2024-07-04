@@ -2,9 +2,9 @@
 
 # PC Info
 
-[![DevSkim](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml) ![License](https://img.shields.io/github/license/wfxey/PC-Info.svg)
-![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
+[![DevSkim](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml/badge.svg)](https://github.com/wfxey/PC-Info/actions/workflows/devskim.yml) ![Python](https://img.shields.io/badge/Python-14354C?style=flat&logo=python&logoColor=white)
 
+ ![License](https://img.shields.io/github/license/wfxey/PC-Info.svg)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=flat&logo=discord&logoColor=white)](https://discord.gg/rfrMnA4XCc)
 
 Our program displays all Informations from your pc and gives you the ability to just export it and send it to the support for an example!
